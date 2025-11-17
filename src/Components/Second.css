@@ -1,0 +1,34 @@
+.main
+{
+    display: flex;
+    width: 100%;
+    /* background-color: red; */
+    margin-top: 50px;
+}
+.one
+{
+    width: 50%;
+    /* background-color: gold; */
+}
+.two
+{
+    width: 50%;
+    /* background-color: green; */
+}
+
+.quate{
+    width: 100%;
+    font-size: 40px;
+    margin-left: 250px;
+}
+.other
+{
+     width: 100%;
+    font-size: 20px;
+    margin-left: 250px;
+}
+.other
+{   margin-top: -100px;
+    width: 100%;
+    text-wrap: unset;
+}

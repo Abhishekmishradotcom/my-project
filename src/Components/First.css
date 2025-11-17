@@ -1,0 +1,44 @@
+.brand
+{
+    padding-top: 10px;
+    padding-left: 20px;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+.nv
+{
+    display: flex;
+    padding-top: 5px;
+       font-size: 20px;
+}
+
+.myul{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+    display: flex;
+    gap: 30px;
+}
+
+.my-list
+{
+    gap:20px;
+    list-style-type: none;
+}
+.my-list a 
+{
+    text-decoration: none;
+}
+.login
+{
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 12px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    font-weight: 500;
+    font-family: sans-serif;
+}
